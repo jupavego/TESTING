@@ -149,4 +149,4 @@ async function waitForDownload(downloadPath) {
 }
 
 
-//powered by: Juan Pablo Velasquez Gomez, 25/05/2024, ICBF, Primera infancia, Regional ANTIOQUIA, java script.
+//powered by: Juan Pablo Velasquez Gomez, 25/05/2024, ICBF, Primera infancia, Regional ANTIOQUIA, java script, con node JS.
